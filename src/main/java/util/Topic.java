@@ -1,6 +1,6 @@
 package util;
 
-public class Create {
+public class Topic {
 
 
     // zookeeper的地址，session超时时间，连接超时时间，是否启用zookeeper安全机制, topic名称，partition数量，副本数量
@@ -19,7 +19,7 @@ public class Create {
     private int numCopy;
 
 
-    public Create(String zkIpPort, int sessionTimeout, int linkTimeout, boolean isSafty, String topicName, int numPartition, int numCopy) {
+    public Topic(String zkIpPort, int sessionTimeout, int linkTimeout, boolean isSafty, String topicName, int numPartition, int numCopy) {
         this.zkIpPort = zkIpPort;
         this.sessionTimeout = sessionTimeout;
         this.linkTimeout = linkTimeout;

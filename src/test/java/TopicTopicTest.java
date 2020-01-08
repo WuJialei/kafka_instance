@@ -1,13 +1,11 @@
 import org.junit.Test;
-import util.Create;
+import util.Topic;
 
-import static org.junit.Assert.*;
-
-public class CreateTopicTest {
+public class TopicTopicTest {
 
     @Test
     public void createTopic() {
-        Create create = new Create(
+        Topic topic = new Topic(
                 "10.10.27.35:2182",
                 30000,
                 3000,
@@ -17,7 +15,7 @@ public class CreateTopicTest {
                 1
                 );
         CreateTopic createTopic = new CreateTopic();
-        boolean ans = createTopic.createTopic(create);
+        boolean ans = createTopic.createTopic(topic);
         System.out.println("result: " + ans);
     }
 }
