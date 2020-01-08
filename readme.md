@@ -4,4 +4,4 @@
 
 - 添加、删除topic
 
-- kafka的producer、consumer
+- 简单的producer、consumer

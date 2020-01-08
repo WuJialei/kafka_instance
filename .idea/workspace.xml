@@ -2,30 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a64751f6-02fa-4b93-a22c-5d6f23f4ad0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DeleteTopic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ConsumerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DeleteTopicTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ProducerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Consumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/DeleteTopic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/kafka_instance.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Producer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/ConsumerTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/DeleteTopicTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/kafka_instance.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/ProducerTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/TopicTopicTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CreateTopic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CreateTopic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/Create.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/Topic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CreateTopicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TopicTopicTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CreateTopic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CreateTopic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/util/Create.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/Topic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/CreateTopicTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,12 +137,24 @@
       <workItem from="1578313908214" duration="2962000" />
       <workItem from="1578370303004" duration="105000" />
       <workItem from="1578398435445" duration="5633000" />
-      <workItem from="1578483845577" duration="5004000" />
+      <workItem from="1578483845577" duration="5135000" />
     </task>
+    <task id="LOCAL-00001" summary="kafka_instance update 20200108">
+      <created>1578489338746</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578489338746</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="kafka_instance update 20200108" />
+    <option name="LAST_COMMIT_MESSAGE" value="kafka_instance update 20200108" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="115" key="#Project_Structure" timestamp="1578401397144">
@@ -179,6 +169,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="482" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1578399293710" />
+    <state x="280" y="52" key="CommitChangelistDialog2" timestamp="1578489338594">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="280" y="52" key="CommitChangelistDialog2/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1578489338594" />
     <state width="1221" height="222" key="GridCell.Tab.0.bottom" timestamp="1578488999699">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -199,6 +193,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="258" y="112" key="Maven.ArtifactSearchDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1578488177133" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1578489341495">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1578489341495" />
     <state x="498" y="184" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1578403572708">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
